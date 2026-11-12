@@ -138,3 +138,4 @@ curl -X GET "http://localhost:8000/ask/What%20is%20the%20recommended%20calorie%2
 ## 🔒 Security Note
 
 Never commit `.env` or sensitive credentials to version control. The included `.gitignore` protects your secret keys, local logs, and virtual environments.
+
